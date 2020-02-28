@@ -1,2 +1,42 @@
-Creating a node js application
--------------------------------
+#Installing node okta package
+https://www.npmjs.com/package/@okta/okta-sdk-nodejs
+
+#Topics Covered
+1. Users
+    1.1 Create a User
+    1.2 Get a User
+    1.3 Update a User
+    1.4 Delete a User
+    1.5 List All Org Users
+    1.6 Search for Users
+
+2. Groups
+    2.1 Create a Group
+    2.2 Assign a User to a Group
+    
+3. Applications
+    3.1 Create an Application
+    3.2 Assign a User to an Application
+    3.3 Assign a Group to an Application
+4. System Log
+    4.1 Get Logs
+
+5. Collection
+    5.1 each
+    5.2 subscribe
+
+6. Configuration
+
+7. Caching
+
+8. Rate Limiting
+    8.1 Built-In Retry
+    8.2 Manual Retry
+
+9. Request Executor
+    9.1 Default Request Executor
+    9.2 Base Request Executor
+
+
+#Getting Started With Okta
+Create a okta developer account at https://developer.okta.com/signup/
